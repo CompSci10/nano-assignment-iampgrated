@@ -1,3 +1,5 @@
+Conner Hartley
+
 # nano-assignment
 In this assignment you will create a cheat sheet for using the Linux text editor nano. You will be using nano extensivelly in this class and knowing the main key-bindings will make your use of nano more efficient and faster.
 
